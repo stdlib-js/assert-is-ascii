@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-ascii",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test whether a character belongs to the ASCII character set and whether this is true for all characters in a provided string.",
   "license": "Apache-2.0",
   "author": {
