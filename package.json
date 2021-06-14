@@ -1,0 +1,102 @@
+{
+  "name": "@stdlib/assert-is-ascii",
+  "version": "0.0.0",
+  "description": "Test whether a character belongs to the ASCII character set and whether this is true for all characters in a provided string.",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "The Stdlib Authors",
+    "url": "https://github.com/stdlib-js/stdlib/graphs/contributors"
+  },
+  "contributors": [
+    {
+      "name": "The Stdlib Authors",
+      "url": "https://github.com/stdlib-js/stdlib/graphs/contributors"
+    }
+  ],
+  "bin": {
+    "is-ascii": "./bin/cli"
+  },
+  "main": "./lib",
+  "directories": {
+    "benchmark": "./benchmark",
+    "bin": "./bin",
+    "doc": "./docs",
+    "example": "./examples",
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "types": "./docs/types",
+  "scripts": {
+    "test": "make test",
+    "test-cov": "make test-cov",
+    "examples": "make examples"
+  },
+  "homepage": "https://github.com/stdlib-js/stdlib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-ascii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "dependencies": {
+    "@stdlib/assert-is-string": "^0.0.x",
+    "@stdlib/cli": "^0.0.x",
+    "@stdlib/fs-read-file": "^0.0.x",
+    "@stdlib/process-read-stdin": "^0.0.x",
+    "@stdlib/regexp-eol": "^0.0.x",
+    "@stdlib/streams-node-stdin": "^0.0.x"
+  },
+  "devDependencies": {
+    "@stdlib/assert-is-boolean": "^0.0.x",
+    "@stdlib/assert-is-browser": "^0.0.x",
+    "@stdlib/assert-is-windows": "^0.0.x",
+    "@stdlib/bench": "^0.0.x",
+    "@stdlib/process-exec-path": "^0.0.x",
+    "@stdlib/string-from-code-point": "^0.0.x",
+    "@stdlib/string-replace": "^0.0.x",
+    "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
+    "istanbul": "^0.4.1",
+    "tap-spec": "5.x.x"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">2.7.0"
+  },
+  "os": [
+    "aix",
+    "darwin",
+    "freebsd",
+    "linux",
+    "macos",
+    "openbsd",
+    "sunos",
+    "win32",
+    "windows"
+  ],
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "string",
+    "str",
+    "ascii",
+    "is",
+    "isstring",
+    "isascii",
+    "validate",
+    "valid",
+    "isvalid",
+    "test",
+    "check"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
