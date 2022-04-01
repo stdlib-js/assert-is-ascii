@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/assert-is-ascii",
+  "version": "0.0.0",
+  "description": "Test whether a character belongs to the ASCII character set and whether this is true for all characters in a provided string.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-ascii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "string",
+    "str",
+    "ascii",
+    "is",
+    "isstring",
+    "isascii",
+    "validate",
+    "valid",
+    "isvalid",
+    "test",
+    "check"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
