@@ -40,12 +40,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/assert-is-regexp-string": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/fs-read-file": "^0.0.x",
     "@stdlib/process-read-stdin": "^0.0.x",
     "@stdlib/regexp-eol": "^0.0.x",
-    "@stdlib/streams-node-stdin": "^0.0.x"
+    "@stdlib/streams-node-stdin": "^0.0.x",
+    "@stdlib/utils-regexp-from-string": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.0.x",
