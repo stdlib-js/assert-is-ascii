@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@esm/index.mjs';
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.0-esm/index.mjs';
 ```
 
 #### isASCII( value )
@@ -80,7 +80,7 @@ var bool = isASCII( 'beep' );
 <body>
 <script type="module">
 
-import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@esm/index.mjs';
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.0-esm/index.mjs';
 
 var out = isASCII( 'beep' );
 // returns true
