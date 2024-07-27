@@ -186,16 +186,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/assert-is-ascii-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/assert-is-ascii-cli
 
-[test-image]: https://github.com/stdlib-js/assert-is-ascii/actions/workflows/test.yml/badge.svg?branch=v0.2.2
-[test-url]: https://github.com/stdlib-js/assert-is-ascii/actions/workflows/test.yml?query=branch:v0.2.2
+[test-image]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/actions/workflows/test.yml/badge.svg?branch=v0.2.2
+[test-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/actions/workflows/test.yml?query=branch:v0.2.2
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-ascii/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-ascii?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-ascii@v0.2.2/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-ascii@v0.2.2?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-ascii.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-ascii/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-ascii@v0.2.2.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-ascii@v0.2.2/main
 
 -->
 
@@ -206,22 +206,22 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/assert-is-ascii#cli
-[cli-url]: https://github.com/stdlib-js/assert-is-ascii/tree/cli
-[@stdlib/assert-is-ascii]: https://github.com/stdlib-js/assert-is-ascii/tree/main
+[cli-section]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2#cli
+[cli-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/tree/cli
+[@stdlib/assert-is-ascii]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/assert-is-ascii/tree/deno
-[deno-readme]: https://github.com/stdlib-js/assert-is-ascii/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/assert-is-ascii/tree/umd
-[umd-readme]: https://github.com/stdlib-js/assert-is-ascii/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/assert-is-ascii/tree/esm
-[esm-readme]: https://github.com/stdlib-js/assert-is-ascii/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/assert-is-ascii/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/tree/deno
+[deno-readme]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/tree/umd
+[umd-readme]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/tree/esm
+[esm-readme]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/assert-is-ascii@v0.2.2/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-ascii/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-ascii@v0.2.2/main/LICENSE
 
 [ascii]: https://en.wikipedia.org/wiki/ASCII
 
