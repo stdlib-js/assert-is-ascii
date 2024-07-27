@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-ascii/tags). For example,
+
+```javascript
 import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.2-esm/index.mjs';
 ```
 
@@ -80,7 +85,7 @@ var bool = isASCII( 'beep' );
 <body>
 <script type="module">
 
-import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.2-esm/index.mjs';
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@esm/index.mjs';
 
 var out = isASCII( 'beep' );
 // returns true
