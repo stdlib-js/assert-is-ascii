@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@deno/mod.js';
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.2-deno/mod.js';
 ```
 
 #### isASCII( value )
@@ -75,7 +75,7 @@ var bool = isASCII( 'beep' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@deno/mod.js';
+import isASCII from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-ascii@v0.2.2-deno/mod.js';
 
 var out = isASCII( 'beep' );
 // returns true
